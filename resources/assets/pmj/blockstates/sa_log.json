@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y": { "model": "pmj:sa_log" },
+        "axis=z": { "model": "pmj:sa_log", "x": 90 },
+        "axis=x": { "model": "pmj:sa_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "pmj:sa_log" }
+    }
+}

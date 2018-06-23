@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "pmj:plasma_block"
+        }
+     
+    },
+    
+    "result":
+    {
+        "item": "pmj:plasmacore",
+        "count": 9
+    }
+}

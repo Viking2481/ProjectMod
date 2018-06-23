@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "ggg",
+        "ggg",
+        "ggg"
+    ],
+    
+    "key":
+    {
+        "g":
+        {
+            "item": "pmj:sa_gem"
+        }
+     
+    },
+    
+    "result":
+    {
+        "item": "pmj:sa_block"
+    }
+}

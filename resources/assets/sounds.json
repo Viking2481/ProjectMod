@@ -1,0 +1,43 @@
+{
+    "entity.centaur.ambient":
+    {
+        "category": "entity",
+        "subtitle": "entity.centaur.ambient",
+        "sounds": [{ "name": "tm:entity/centaur/ambient", "stream": true}]
+    },
+    
+    "entity.centaur.hurt":
+    {
+        "category": "entity",
+        "subtitle": "entity.centaur.hurt",
+        "sounds": [{ "name": "tm:entity/centaur/hurt", "stream": true}]
+    },
+    
+    "entity.centaur.death":
+    {
+        "category": "entity",
+        "subtitle": "entity.centaur.death",
+        "sounds": [{ "name": "tm:entity/centaur/death", "stream": true}]
+    },
+    
+    "item.tool.equip":
+    {
+        "category": "item",
+        "subtitle": "item.tool.equip",
+        "sounds": [{ "name": "tm:item/tool/equip", "stream": true}]
+    },
+    
+    "item.tool.idle":
+    {
+        "category": "item",
+        "subtitle": "item.tool.idle",
+        "sounds": [{ "name": "tm:item/tool/idle", "stream": true}]
+    },
+    
+    "item.tool.swing":
+    {
+        "category": "item",
+        "subtitle": "item.tool.swing",
+        "sounds": [{ "name": "tm:item/tool/swing", "stream": true}]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants":
+    {
+        "variant=sp": { "model": "pmj:ore_merc_sp" },
+        "variant=per": { "model": "pmj:ore_merc_per" },
+        "variant=rube": { "model": "pmj:ore_merc_rube" },
+        "variant=aq": { "model": "pmj:ore_merc_aq" },
+        "variant=am": { "model": "pmj:ore_merc_am" }
+    }
+}

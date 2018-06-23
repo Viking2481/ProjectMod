@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "nnn",
+        "nun",
+        "nnn"
+    ],
+    
+    "key":
+    {
+        "n":
+        {
+            "item": "pmj:sa_n"
+        },
+        
+        "u":
+        {
+            "item": "pmj:sa_u"
+        }
+     
+    },
+    
+    "result":
+    {
+        "item": "pmj:sa_gem"
+    }
+}

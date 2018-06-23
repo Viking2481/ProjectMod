@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "xxx",
+        "xxx",
+        "xxx"
+    ],
+    
+    "key":
+    {
+        "x":
+        {
+            "item": "pmj:spire_gem"
+        }
+     
+    },
+    
+    "result":
+    {
+        "item": "pmj:spire_block"
+    }
+}

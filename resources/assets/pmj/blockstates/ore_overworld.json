@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "variant=plasma": { "model": "pmj:ore_overworld_plasma" },
+        "variant=sa": { "model": "pmj:ore_overworld_sa" }
+    }
+}

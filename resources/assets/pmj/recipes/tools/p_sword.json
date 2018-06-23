@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "P",
+        "P",
+        "R"
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "pmj:plasmacore"
+        },
+        
+        "R":
+        {
+            "item": "pmj:iron_rode"
+        }
+    },
+    
+    "result":
+    {
+        "item": "pmj:p_sword"
+    }
+}

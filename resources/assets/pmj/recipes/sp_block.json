@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "xxx",
+        "xxx",
+        "xxx"
+    ],
+    
+    "key":
+    {
+        "x":
+        {
+            "item": "pmj:sp_ingot"
+        }
+     
+    },
+    
+    "result":
+    {
+        "item": "pmj:sp_block"
+    }
+}

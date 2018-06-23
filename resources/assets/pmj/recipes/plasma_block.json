@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "ppp",
+        "ppp",
+        "ppp"
+    ],
+    
+    "key":
+    {
+        "p":
+        {
+            "item": "pmj:plasmacore"
+        }
+     
+    },
+    
+    "result":
+    {
+        "item": "pmj:plasma_block"
+    }
+}

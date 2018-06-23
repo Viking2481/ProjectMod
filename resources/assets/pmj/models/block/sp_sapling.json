@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "pmj:blocks/sapling_spire"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "pmj:sa_block"
+        }
+     
+    },
+    
+    "result":
+    {
+        "item": "pmj:sa_gem",
+        "count": 9
+    }
+}

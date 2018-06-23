@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "G",
+        "S",
+        "S"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "pmj:sa_gem"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "pmj:sa_shovel"
+    }
+}

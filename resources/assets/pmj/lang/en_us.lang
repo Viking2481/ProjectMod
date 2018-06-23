@@ -1,0 +1,167 @@
+//Items
+item.sa_gem.name=Space Apple Gem
+item.per.name=Peridet
+item.sp_ingot.name=Spessartite Ingot
+item.rube.name=Rubellite
+item.aq_ingot.name=Aquamarine Ingot
+item.am.name=Amethyst
+item.spire_gem.name=Strange Stone
+item.plasmacore.name=Plasma Core
+item.iron_rode.name=Iron Rode
+
+//Food
+item.sa_n.name=Space Apple
+item.sa_u.name=Ultimate Space Apple
+item.sp_raw.name=Space Potato
+item.sp_baked.name=Baked Space Potato
+item.moa_b.name=Moa Beef
+item.moa_s.name=Moa Steak
+
+//Tools
+item.p_pickaxe.name=Prophet's Burden
+item.p_sword.name=Prophet's Bane
+item.p_axe.name=Prophet's Trial
+item.p_shovel.name=Prophet's Misery
+item.p_hoe.name=Prophet's Plague
+
+item.sa_pickaxe.name=Space Apple Pickaxe
+item.sa_sword.name=Space Apple Sword
+item.sa_axe.name=Space Apple Axe
+item.sa_shovel.name=Space Apple Shovel
+item.sa_hoe.name=Space Apple Hoe
+
+item.sp_pickaxe.name=Spessartite Pickaxe
+item.sp_sword.name=Spessartite Sword
+item.sp_axe.name=Spessartite Axe
+item.sp_shovel.name=Spessartite Shovel
+item.sp_hoe.name=Spessartite Hoe
+
+item.rube_pickaxe.name=Rubellite Pickaxe
+item.rube_sword.name=Rubellite Sword
+item.rube_axe.name=Rubellite Axe
+item.rube_shovel.name=Rubellite Shovel
+item.rube_hoe.name=Rubellite Hoe
+
+item.aq_pickaxe.name=Aquamarine Pickaxe
+item.aq_sword.name=Aquamarine Sword
+item.aq_axe.name=Aquamarine Axe
+item.aq_shovel.name=Aquamarine Shovel
+item.aq_hoe.name=Aquamarine Hoe
+
+item.am_pickaxe.name=Amethyst Pickaxe
+item.am_sword.name=Amethyst Sword
+item.am_axe.name=Amethyst Axe
+item.am_shovel.name=Amethyst Shovel
+item.am_hoe.name=Amethyst Hoe
+
+item.spire_pickaxe.name=Strange Pickaxe
+item.spire_sword.name=Strange Sword
+item.spire_axe.name=Strange Axe
+item.spire_shovel.name=Strange Shovel
+item.spire_hoe.name=Strange Hoe
+
+//Armor
+item.sa_helmet.name=Space Apple Helmet
+item.sa_chest.name=Space Apple Chest Plate
+item.sa_pants.name=Space Apple Leggings
+item.sa_boots.name=Space Apple Boots
+
+item.plasma_helmet.name=Combat Harness Helmet
+item.plasma_chest.name=Combat Harness Chest Plate
+item.plasma_pants.name=Combat Harness Leggings
+item.plasma_boots.name=Combat Harness Boots
+
+item.sp_helmet.name=Spessartite Helmet
+item.sp_chest.name=Spessartite Chest Plate
+item.sp_pants.name=Spessartite Leggings
+item.sp_boots.name=Spessartite Boots
+
+item.rube_helmet.name=Rubellite Helmet
+item.rube_chest.name=Rubellite Chest Plate
+item.rube_pants.name=Rubellite Leggings
+item.rube_boots.name=Rubellite Boots
+
+item.aq_helmet.name=Aquamarine Helmet
+item.aq_chest.name=Aquamarine Chest Plate
+item.aq_pants.name=Aquamarine Leggings
+item.aq_boots.name=Aquamarine Boots
+
+item.am_helmet.name=Amethyst Helmet
+item.am_chest.name=Amethyst Chest Plate
+item.am_pants.name=Amethyst Leggings
+item.am_boots.name=Amethyst Boots
+
+item.spire_helmet.name=Strange Helmet
+item.spire_chest.name=Strange Chest Plate
+item.spire_pants.name=Strange Leggings
+item.spire_boots.name=Strange Boots
+
+//Ore Blocks
+tile.sa_block.name=Space Apple Block
+tile.plasma_block.name=Plasma Block
+tile.per_block.name=Peridet Block
+tile.sp_block.name=Spessartite Block
+tile.rube_block.name=Rubellite Block
+tile.aq_block.name=Aquamarine Block
+tile.am_block.name=Amethyst Block
+tile.spire_block.name=Strange Stone Block
+
+//Blocks
+tile.merc_stone.name=Mercury Stone
+tile.merc_cobble.name=Mercury Cobblestone
+tile.plasma_lamp.name=Plasma Lamp
+tile.rust_plasma.name=Rusted Plasma
+tile.spire_link.name=Spire Link
+
+//Tabs
+itemGroup.projecttab=Project Tab
+itemGroup.projectblocks=Project Blocks
+itemGroup.projectitems=Project Items
+itemGroup.projecttools=Project Tools
+itemGroup.projectfood=Project Food Items
+itemGroup.projectdecor=Project Decorations
+itemGroup.projectcombat=Project Combat
+
+//Ores
+tile.ore_overworld_plasma.name=Plasma Ore
+tile.ore_overworld_sa.name=Space Apple Ore
+tile.ore_overworld_merc.name=Mercury Ore
+tile.ore_overworld_spire.name=Space Apple Ore
+
+//Trees
+tile.p_leaves.name=Plasma Leaves
+tile.sa_leaves.name=Space Apple Leaves
+tile.sp_leaves.name=Strange Leaves
+tile.pm_leaves.name=Pink Maple Leaves
+tile.rm_leaves.name=Red Maple Leaves
+
+tile.p_log.name=Plasma Log
+tile.sa_log.name=Space Apple Log
+tile.sp_log.name=Strange Log
+tile.m_log.name=Maple Log
+
+tile.p_plank.name=Plasma Wood Planks
+tile.sa_plank.name=Space Apple Wood Planks
+tile.m_plank.name=Maple Wood Planks
+tile.sp_plank.name=Strange Wood Planks
+
+tile.p_sapling.name=Plasma Tree Sapling
+tile.sa_sapling.name=Space Apple Tree Sapling
+tile.pm_sapling.name=Pink Maple Tree Sapling
+tile.rm_sapling.name=Red Maple Tree Sapling
+tile.sp_sapling.name=Strange Tree Sapling
+
+//Ground
+tile.p_grass.name=Plasma Grass
+tile.sa_grass.name=Space Apple Grass
+tile.m_grass.name=Mercury Grass
+tile.sp_grass.name=Strange Grass
+
+tile.p_dirt.name=Plasma Dirt
+tile.sa_dirt_sa.name=Space Apple Dirt
+tile.m_dirt.name=Mercury Dirt
+tile.sp_dirt.name=Strange Dirt
+
+//Entities
+entity.moa.name=Moa
+entity.demon.name=Demon

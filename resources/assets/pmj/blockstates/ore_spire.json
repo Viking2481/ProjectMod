@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=spire": { "model": "pmj:ore_spire_spire" }
+    }
+}

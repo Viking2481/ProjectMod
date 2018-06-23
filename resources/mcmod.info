@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pmj",
+  "name": "Project Mod",
+  "description": "Independant Project for Junior Year.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Viking 2481"],
+  "credits": "Junior Year Project",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

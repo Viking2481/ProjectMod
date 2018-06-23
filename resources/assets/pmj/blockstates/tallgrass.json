@@ -1,0 +1,7 @@
+{
+    "variants": 
+    {
+        "variant=sa": { "model": "pmj:tallgrass_sa" },
+        "variant=plasma": { "model": "pmj:tallgrass_plasma" }
+    }
+}

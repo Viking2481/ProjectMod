@@ -1,0 +1,10 @@
+{
+    "parent": "block/grass",
+    "textures": {
+        "particle": "pmj:blocks/grass_merc",
+        "bottom": "pmj:blocks/dirt_merc",
+        "top": "pmj:blocks/grass_merc",
+        "side": "pmj:blocks/grass_merc_side",
+        "overlay": "pmj:blocks/grass_merc_side"
+    }
+}

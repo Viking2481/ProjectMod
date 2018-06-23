@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "pmj:blocks/log_merc_top",
+        "side": "pmj:blocks/log_merc"
+    }
+}
